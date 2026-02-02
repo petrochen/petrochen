@@ -31,8 +31,11 @@ Python library for Junsi iCharger battery chargers. USB control, battery fingerp
 ### [esp8266-weather-clock-opensource](https://github.com/petrochen/esp8266-weather-clock-opensource)
 Open-source firmware for ESP8266 weather clocks. Reverse-engineered from a Chinese DIY kit.
 
-### [prs-t1-usb-fix](https://github.com/petrochen/prs-t1-usb-fix)
-Fix for Sony PRS-T1 e-reader USB connectivity issues.
+### [chat_summarizer](https://github.com/petrochen/chat_summarizer)
+AI-powered chat summarization tool. Python.
+
+### [duolingo-autostreak](https://github.com/petrochen/duolingo-autostreak)
+Automated streak maintenance for Duolingo. JavaScript.
 
 ## Tools
 
