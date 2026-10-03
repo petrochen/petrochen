@@ -1,54 +1,27 @@
 # Alex Petrochenko
 
-![Profile Views](https://komarev.com/ghpvc/?username=petrochen&color=blueviolet)
+**Embedded & IoT · Reverse Engineering · Practical Tools**
 
-**Embedded & IoT Developer | Reverse Engineering | Hardware Hacking**
+I build practical tools for hardware, infrastructure, and the web — with a focus on reverse engineering and making devices useful for longer.
 
-I build tools that bridge software and hardware. My focus is on reverse engineering consumer electronics, creating open-source firmware, and developing Python libraries for hardware control.
+Based in Lisbon, Portugal.
 
-## Tech Stack
+## Hardware & reverse engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+- **[ESP8266 Weather Clock](https://github.com/petrochen/esp8266-weather-clock-opensource)** — open-source firmware for DIY weather clocks, reverse-engineered from a consumer kit.
+- **[iCharger Python](https://github.com/petrochen/icharger-python)** — USB control and measurement automation for Junsi iCharger battery chargers.
+- **[ISDT Firmware Flasher](https://github.com/petrochen/isdt-firmware-flasher)** — tools for flashing ISDT charger firmware without Windows.
 
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+## Software & infrastructure
 
-## What I Do
+- **[Audio Input Priority](https://github.com/petrochen/audio-input-priority)** — control which microphone macOS uses when audio devices connect.
+- **[Guit95](https://github.com/petrochen/guit95)** — a modern revival of a classic guitar learning application.
+- **[Xray Double Hop](https://github.com/petrochen/xray-double-hop)** — configuration and tooling for a two-hop Xray connection.
 
-- **Reverse Engineering** — analyzing proprietary firmware and protocols to create open alternatives
-- **Embedded Systems** — ESP8266/ESP32, custom firmware development
-- **Hardware Tooling** — Python libraries for USB device control and automation
+## Tools I work with
 
-## Featured Projects
-
-### [icharger-python](https://github.com/petrochen/icharger-python)
-Python library for Junsi iCharger battery chargers. USB control, battery fingerprinting, IR measurement automation.
-
-### [esp8266-weather-clock-opensource](https://github.com/petrochen/esp8266-weather-clock-opensource)
-Open-source firmware for ESP8266 weather clocks. Reverse-engineered from a Chinese DIY kit.
-
-### [chat_summarizer](https://github.com/petrochen/chat_summarizer)
-AI-powered chat summarization tool. Python.
-
-### [duolingo-autostreak](https://github.com/petrochen/duolingo-autostreak)
-Automated streak maintenance for Duolingo. JavaScript.
-
-## Tools
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat&logo=ghidra&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white)
+Python · C/C++ · JavaScript · Shell · ESP8266/ESP32 · PlatformIO · Ghidra · Wireshark
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/petrochenko)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex@petrochenko.info)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrochen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[Website](https://petrochenko.info) · [Telegram](https://t.me/petrochenko) · [Email](mailto:alex@petrochenko.info)
